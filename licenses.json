@@ -1,10 +1,15 @@
 {
-  "updatedAt": "2026-04-24T00:00:00Z",
+  "updatedAt": "2026-04-24T16:20:00Z",
   "keys": [
     {
       "key": "20260416183756|m|e|DEV-1776762322653-n6iop9yy",
       "status": "active",
-      "note": "sample"
+      "note": "preset-edge-1"
+    },
+    {
+      "key": "20260424162000|m|c|DEV-1777000000000-ab12cd34",
+      "status": "active",
+      "note": "preset-chrome-2"
     }
   ]
 }
